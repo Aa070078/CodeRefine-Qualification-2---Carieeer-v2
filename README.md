@@ -1,6 +1,6 @@
 # Carieeer
 
-Simple career website design for the competition.
+career website design.
 
 ## What it does
 
@@ -52,9 +52,7 @@ GET /me/notifications
 
 Client -> Backend API -> Supabase Auth / Database / Storage; workers use RabbitMQ, OpenSearch, and the black-box matcher.
 
-## Diagrams (main explanation)
-
-The PNG files below appear directly on GitHub. The editable Excalidraw files are linked too.
+## Diagrams
 
 ### Requirements
 
